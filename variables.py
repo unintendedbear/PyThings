@@ -7,10 +7,14 @@
 # Numéricos
 # Antes de concatenar números, los tenemos que transformar a cadena
 
-entero = 4
-int()
+enteroA = 4
+enteroAA = int(4) # int() a secas da 0
+enteroB = 6
+enteroBB = int(6)
+enteroC = enteroA + enteroB
+enteroCC = enteroAA + enteroBB
 
-print entero
+print enteroC, enteroCC
 
 entero_largo = 145L
 long()
@@ -31,3 +35,5 @@ logico = True, False
 bool()
 
 print logico
+
+
