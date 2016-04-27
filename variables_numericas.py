@@ -1,6 +1,6 @@
 #!/user/bin/python
 # -*- coding: utf-8 -*-
-"""variables.py"""
+"""variables_numericas.py"""
 
 # Tipos de variables que podemos crear y tipos de datos que podemos manejar
 
