@@ -6,6 +6,4 @@ diccionario = {"Titulo": "La vida de Brian", "Año": 1979, "Director": "Terry Jo
 
 print diccionario["Titulo"]
 
-dict()
 
-# Sets

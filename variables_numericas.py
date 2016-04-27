@@ -6,6 +6,8 @@
 
 # Numéricos
 # Antes de concatenar números, los tenemos que transformar a cadena
+# El exponente no se pone como ^, sino como **
+# Además hay división -> / y división entera -> //
 
 enteroA = 4
 enteroAA = int(4) # int() a secas da 0

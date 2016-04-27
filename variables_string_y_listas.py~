@@ -5,12 +5,6 @@
 # Tipos de variables que podemos crear y tipos de datos que podemos manejar
 
 # String
-# Operadores: + concatenar y * multiplicar (hola*3 = holaholahola)
-
-cadena = "Holy Grail"
-otra_cadena = 'Holy Grail'
-
-print cadena*3, otra_cadena*3
 
 # Listas
 # Si hacemos una lista y la copiamos en otra lista, cualquier operación que hagamos en alguna de las dos, afecta a la otra
