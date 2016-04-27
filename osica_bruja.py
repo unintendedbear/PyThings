@@ -27,3 +27,14 @@ while i < 100:
 	i += 1
 
 # Hay break, continue y pass (no hagas nada)
+
+# Iterador for
+# Es como el foreach de Perl
+
+platos = ("plato1", "plato2", "plato3", "plato4", "plato5", "plato6", "postre") # Utilizamos una tupla, no una lista
+
+for plato in platos:
+	if plato != "postre":
+		print "Monsieur se come el: "+plato
+	else:
+		print "BOOM"
