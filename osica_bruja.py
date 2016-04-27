@@ -38,3 +38,11 @@ for plato in platos:
 		print "Monsieur se come el: "+plato
 	else:
 		print "BOOM"
+
+# En los diccionarios, el iterador devuelve las **claves**
+# Como un diccionario es un objeto, podemos usar la función iteritems()
+
+peliculas = {"Peli1": 1900, "Peli2": 2000, "Peli3": 2010}
+
+for nombre, fecha in peliculas.iteritems()
+	print "Pelicula: "+nombre+" de "+str(fecha) # La fecha es un número, así que hay que pasarlo a string para concatenarlo
